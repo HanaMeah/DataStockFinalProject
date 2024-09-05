@@ -33,6 +33,14 @@ Imports: all imports in the relevant code files
 ## Contributions
 Contributions to expand the project are welcome once they are verified.
 
+## Repository Structure
+/data/: Contains datasets (Amazon stock data).
+/models/: Model files (LSTM, GRU, Prophet).
+/notebooks/: Jupyter notebooks with the training and prediction process.
+/scripts/: Python scripts for model training and prediction.
+.
+
+
 ## Instructions
 1. Fork this repository
 2. Clone the forked repository
